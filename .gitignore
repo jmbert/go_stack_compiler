@@ -1,0 +1,9 @@
+bin/
+build/
+code/
+libsrc/
+assemble.sh
+lcomp.sh
+linker.sh
+main.go
+run.sh
